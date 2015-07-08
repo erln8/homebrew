@@ -1,8 +1,8 @@
 require 'formula'
 class Erln8 < Formula
   homepage 'http://erln8.github.io/erln8/'
-  url 'https://github.com/erln8/erln8/archive/2.0-beta1.tar.gz'
-  sha1 '349db7d801568e305b9c5c5f6e8b8082484fc5f9'
+  url 'https://github.com/erln8/erln8/archive/2.0-beta2.tar.gz'
+  sha1 '910378d39a5a26bd544f03ff78eb3df96919d9ac'
 
   depends_on 'dmd'
   depends_on 'dub'
